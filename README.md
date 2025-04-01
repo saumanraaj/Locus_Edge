@@ -31,4 +31,4 @@ Clone the repository and follow the setup instructions in the `docs/` folder (co
 
 ```bash
 git clone https://github.com/yourusername/Locus_Edge.git
-cd locusedge-project
+cd Locus_Edge
