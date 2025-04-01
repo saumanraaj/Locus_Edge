@@ -30,5 +30,5 @@ Sauman Raaj – LinkedIn
 Clone the repository and follow the setup instructions in the `docs/` folder (coming soon).
 
 ```bash
-git clone https://github.com/yourusername/locusedge-project.git
+git clone https://github.com/yourusername/Locus_Edge.git
 cd locusedge-project
