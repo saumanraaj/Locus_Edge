@@ -1,0 +1,2002 @@
+[
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Reverse 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Proceed backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Move backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go forward for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Advance 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Proceed backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Advance 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go forward for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Face 180 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Turn 90 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Go forward for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Reverse 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Rotate 45 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Proceed backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Proceed backward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go back for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate 45 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go back for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move forward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Face 45 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Advance 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Proceed forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate 90 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Proceed forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Advance 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Turn 45 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Move forward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn 45 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Go forward for 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Turn 180 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin 90 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Advance 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Rotate 90 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Rotate 45 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Go forward for 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Go forward for 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin 90 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Move backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go forward for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Turn 45 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Face 180 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Advance 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate 45 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Proceed forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Reverse 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Reverse 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Proceed forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Rotate 45 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Turn 180 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go forward for 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate 90 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go back for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Face 90 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Proceed backward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go forward for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Face 90 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Proceed backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Proceed backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Proceed forward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Face 180 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Spin 180 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Move forward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go forward for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Turn 90 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go back for 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Spin 90 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn 180 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Proceed backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Proceed forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Reverse 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move backward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Move backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Go forward for 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Spin 45 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Move backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Go forward for 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Rotate 90 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go back for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Proceed forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate 90 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin 45 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Face 180 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Proceed forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Reverse 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Proceed forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Reverse 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate 90 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Proceed forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Turn 90 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go forward for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Rotate 45 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Advance 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Move backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Face 45 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Rotate 90 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Proceed backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Go back for 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Move forward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Advance 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Proceed forward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move backward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Move backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Turn 180 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Go forward for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go back for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Turn 45 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Proceed forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go back for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Face 180 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin 90 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Reverse 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Spin 45 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Proceed backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Reverse 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Rotate 90 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Turn 45 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Turn 45 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn 180 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Reverse 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Rotate 45 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go forward for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Proceed backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go forward for 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go back for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Rotate 180 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Proceed backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Rotate 180 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Proceed backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Proceed forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Go back for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move forward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Proceed forward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin 45 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Proceed forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Advance 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Move forward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go back for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate 45 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Turn 180 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Move backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Proceed forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Go back for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Advance 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin 90 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Reverse 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Spin 180 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Face 180 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Spin 180 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Move forward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Turn 180 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin 90 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin 45 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Move forward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Reverse 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Spin 90 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go back for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Face 90 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Proceed backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Proceed forward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Proceed forward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Turn 45 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Go back for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Face 90 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Rotate 45 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Proceed backward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Move forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Proceed backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Move forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Move backward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move backward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Advance 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Rotate 45 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Face 180 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Move backward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move forward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Face 90 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Go forward for 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Move forward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate 180 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Go forward for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 2}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move backward 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin 180 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Spin 45 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Move backward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Face 180 degrees to the right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Turn 180 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Turn 180 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 180}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Advance 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Face 90 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Go back for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go back for 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin 180 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Go forward for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Face 180 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Spin 45 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Advance 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Rotate left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go forward for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 5}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Turn 45 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Spin 90 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Move forward 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 10}"
+    },
+    {
+        "input": "Turn 90 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 90}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Advance 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"forward\", \"distance\": 1}"
+    },
+    {
+        "input": "Spin right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Halt",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Make a right turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Come to a stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Face 45 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 45}"
+    },
+    {
+        "input": "Move backward 1 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 1}"
+    },
+    {
+        "input": "Turn 45 degrees right",
+        "output": "{\"action\": \"rotate\", \"direction\": \"right\", \"angle\": 45}"
+    },
+    {
+        "input": "Turn right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Turn 180 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 180}"
+    },
+    {
+        "input": "Stop",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Pause",
+        "output": "{\"action\": \"stop\"}"
+    },
+    {
+        "input": "Face 90 degrees to the left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    },
+    {
+        "input": "Reverse 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Move backward 2 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 2}"
+    },
+    {
+        "input": "Spin left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Make a left turn",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Go back for 5 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 5}"
+    },
+    {
+        "input": "Turn left",
+        "output": "{\"action\": \"turn\", \"direction\": \"left\"}"
+    },
+    {
+        "input": "Reverse 10 meters",
+        "output": "{\"action\": \"move\", \"direction\": \"backward\", \"distance\": 10}"
+    },
+    {
+        "input": "Rotate right",
+        "output": "{\"action\": \"turn\", \"direction\": \"right\"}"
+    },
+    {
+        "input": "Spin 90 degrees left",
+        "output": "{\"action\": \"rotate\", \"direction\": \"left\", \"angle\": 90}"
+    }
+]
